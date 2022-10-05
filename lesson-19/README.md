@@ -1,4 +1,4 @@
-# Lesson 17
+# Lesson 19
 
 In this lesson, we enable the A20 line, which represents the 21st bit of memory in an address, to be able to address all memory. It seems like this is an artifact of the older 8086's limitations.
 
